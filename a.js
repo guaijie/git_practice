@@ -5,3 +5,4 @@ function a(){
   console.log('a')
 >>>>>>> master
 }
+console.log('dev/master')
